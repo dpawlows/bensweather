@@ -1,0 +1,4 @@
+python manage.py makemigrations weather
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py initial
